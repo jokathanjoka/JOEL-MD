@@ -140,7 +140,7 @@
       "value": "Joel",
       "required": true 
     },
-    "PACK_AUTHER": {nk
+    "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
       "value": "Whatsappbot",
       "required": true 
