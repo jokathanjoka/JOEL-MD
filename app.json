@@ -1,7 +1,7 @@
 {
   "name": "JOEL MD",
   "description": "Hi there, I am Joel Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255762190568,255679513639 +254710772666",
-  "logo": "https://telegra.ph/file/798e6256fa919a62243a6.jpg"
+  "logo": "https://telegra.ph/file/798e6256fa919a62243a6.jpg",
   "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Bot Owner Name",    
-      "value": "joel tech",
+      "value": "Mr Joel",
       "required" :true
     },   
     
@@ -32,7 +32,7 @@
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
       "required" :true,    
-      "value": "https://telegra.ph/file/798e6256fa919a62243a6.jpg"
+      "value": "https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -57,7 +57,7 @@
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status", 
       "required" :true,   
-      "value": "true"
+      "value": "false"
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -137,7 +137,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Joel",
+      "value": "Mr Joel",
       "required": true 
     },
     "PACK_AUTHER": {
