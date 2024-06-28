@@ -44,9 +44,20 @@
 **[*`TAP HERE TO DEPLOY JOEL BUG BOT ON HEROKU`*](https://dashboard.heroku.com/new?template=https://github.com/jokathanjoka/JOEL-MD/tree/main)**
 
 
-## thanks to myself 1.(joel kang'oma)
-## 2.mdUdU oK
-## 3.Briany
+thanks to  
 
-## chanel link is here https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
-# any problem https://wa.me/255714595078
+
+1.joel kang'oma
+
+
+2.mdUdU oK
+
+
+3.Briany
+
+
+chanel link is here https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
+
+ 
+ 
+ any problem https://wa.me/255714595078
