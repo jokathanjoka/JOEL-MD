@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Bot Owner Name",    
-      "value": "Mr Joel",
+      "value": "joel tech",
       "required" :true
     },   
     
