@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
+  <a href="https://chat.whatsapp.com/GxlcVwkXrPo2YwNoQI5TwS">
     <img alt=Support height="350" src="https://telegra.ph/file/798e6256fa919a62243a6.jpg"> 
   </p>
 <h1 align="center">JOEL BUG BOT-MULTI-DEVICE
