@@ -107,7 +107,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "255767570963,255714595078,255781144539,255768886545"
+      "value": "255714595078,255781144539,255768886545,255767570963"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -137,7 +137,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Mr Joel",
+      "value": "joel",
       "required": true 
     },
     "PACK_AUTHER": {
