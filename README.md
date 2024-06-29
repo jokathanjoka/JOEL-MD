@@ -32,7 +32,11 @@
 
 
 # DEPLOY SETUP
+YOU MUST FORK REPO BEFORE DEPLOYING JOEL MD
 
+[*`CLICK HERE TO FORK REPO`*](https://github.com/jokathanjoka/JOEL-MD/fork)
+
+Star ⭐ repo if you like this bot
 
 ## 1 SCAN PAIRING CODE + QR IN JOEL APP
 
