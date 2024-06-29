@@ -1,5 +1,6 @@
 </p>
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=JOEL MD made by joel kang'oma._" alt="Typing SVG" /></a>
   <a href="https://chat.whatsapp.com/GxlcVwkXrPo2YwNoQI5TwS">
     <img alt=Support height="350" src="https://telegra.ph/file/8cb38ae7d5125b2a16411.jpg"> 
   </p>
