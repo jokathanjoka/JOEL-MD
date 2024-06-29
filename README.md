@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/GxlcVwkXrPo2YwNoQI5TwS">
-    <img alt=Support height="350" src="https://telegra.ph/file/798e6256fa919a62243a6.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/8cb38ae7d5125b2a16411.jpg"> 
   </p>
 <h1 align="center">JOEL BUG BOT-MULTI-DEVICE
 </h1>
@@ -47,10 +47,10 @@
 thanks to  
 
 
-1.joel kang'oma
+1.myself (joel kang'oma)
 
 
-2.mdUdU oK
+2.mdudu kala💀
 
 
 3.Briany
