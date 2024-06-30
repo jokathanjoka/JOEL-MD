@@ -1,7 +1,7 @@
 {
 "_JSON_": true,
-"AUTHOR": "SuhailTechInfo",
-"theme": "Adam",
+"AUTHOR": "joeltech",
+"theme": "joel",
 "LANGUAGE": "English",
 "LANGCODE": "en", 
 "STRINGS": {    
@@ -11,7 +11,7 @@
 "UPDATED_LOCAL": "Fresh Updates Installed!"
 },     
 "global": {
-"botName": "ADAM", 
+"botName": "JOEL", 
     
 "body": "SHAZAM!",
 "greet2" : "Hey Buddy",
@@ -32,17 +32,17 @@
 "greet" : "Pal", 
 "dotbody" : "I have returned..",
 "promote": "A new worthy hero arrived",
-"pmallow": "Hii,This is Black Adam\n*My Shazam seems  busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+"pmallow": "Hii,This is joel tech\n*My Shazam seems  busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
 "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _Powered by Black Adam*_",
-"pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/F0HqDfJTvz66zzApYHrHHo\n\n *Powered by Suhail Tech Info*",
-"permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\nPowered by SuhailTech",
-"revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\nPowered by SuhailTech",
+"pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n Join Public Support Group : \nhttps://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M/F0HqDfJTvz66zzApYHrHHo\n\n *Powered by joel Tech Info*",
+"permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\nPowered by joelTech",
+"revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\nPowered by joelTech",
 "demote": "This is justice!",
 "antlink": "Link Detected.\n*Good Bye Worthless*",
-"session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐁𝐥𝐚𝐜𝐤 𝐀𝐝𝐚𝐦*",
+"session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 joel kang'oma *",
 "mention": " Please mention any user",
 "title": "JOEL MD",
-"footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo",
+"footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/joelTechInfo",
 "by": "Made by: CitelVoid",
 "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
 "success": "Success ✓",
