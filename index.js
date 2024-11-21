@@ -30612,8 +30612,8 @@ async function downloadSessionData() {
         console.error('Please add your session to SESSION_ID env !!');
         return false;
     }
-    const sessdata = config.SESSION_ID.split("Ethix-MD&")[1];
-    const url = `https://pastebin.com/raw/${sessdata}`;
+    const sessdata = config.SESSION_ID.split("joel&")[1];
+    const url = `https://mega.nz/file/${sessdata}`;
     try {
         const response = await axios.get(url);
         const data = typeof response.data === 'string' ? response.data : JSON.stringify(response.data);
