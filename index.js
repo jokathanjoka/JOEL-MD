@@ -30636,14 +30636,14 @@ async function start() {
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["Ethix-MD", "safari", "3.3"],
+            browser: ["GURU-MD", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "Mercedes whatsapp user bot" };
+                return { conversation: "joel md whatsapp user bot" };
             }
         });
 
@@ -30655,8 +30655,8 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("😃 Integration Successful️"));
-                    Matrix.sendMessage(Matrix.user.id, { text: `😃 Integration Successful️` });
+                    console.log(chalk.green("im joel md"));
+                    Matrix.sendMessage(Matrix.user.id, { text: `im joel md` });
                     initialConnection = false;
                 } else {
                     console.log(chalk.blue("♻️ Connection reestablished after restart."));
@@ -30716,7 +30716,7 @@ async function init() {
 init();
 
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send('im joel md');
 });
 
 app.listen(PORT, () => {
